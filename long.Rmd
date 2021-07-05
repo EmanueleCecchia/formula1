@@ -556,20 +556,6 @@ Durante questi 7 anni Mercedes il campionato più serrato è stato il 2018, con 
 </section>
 
 
-<!--
->- analizzare una qualifica 
->- vendite gioco formula 1 rispetto altri giochi di motori 
->- pista con la pitlane mediamente piu corta in termini di tempo
->- campionati costruttori nell'era ibrida (da 2010 in poi mi sembra)
-
->- Mappe interattive, non statiche ma dinamiche
->- andamento gara hockenheim (migliorabile) 
->- andamento di una gara in maniera dinamica
->- introduzione al dataset (migliorabile)
->- differenza di posizione dei circuiti negli anni (tipo tra 1950, 1985, 2021)
->- posizione circuiti in relazione del loro pil (https://cran.r-project.org/web/packages/SpatialPosition/vignettes/StewartExample.html)
->- prendere spunto dagli altri su keggle
--->
 
 
 
