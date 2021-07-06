@@ -3,3 +3,5 @@ Project for data science exam
 
 long.rmd is the long and more complete report
 short.rmd is just an easy report to use as presentation of the project
+
+I use reveal js as package for visualization
